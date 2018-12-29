@@ -5,9 +5,9 @@ This repository contains the study cases used for the different courses of the D
 
 It includes 
 
-- a description of the study cases
-- links to the reference publications and data sourcezs
-- scripts enabling to download the data from its original sources
+- a description of the study cases;
+- links to the reference publications and data sources;
+- scripts enabling to download the data from its original sources;
 - occasionally, small demo datasets derived from the raw data, in order to facilitate its use for the different courses of the diploma (Python, Unix, statistics with R, ...).
 
 Contact: Jacques.van-Helden@univ-amu.fr
