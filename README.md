@@ -1,4 +1,12 @@
-# Study cases
+# Contenus transversaux
+
+## Lexique
+
+## Glossaire
+
+## Biblio
+
+## Study cases
 
 
 This repository contains the study cases used for the different courses of the Diplôme Universitaire en Bioinformatique Intégrative (DU-Bii) organised by the Université Paris-Diderot and the Institut Français de Bioinformatique (IFB). 
