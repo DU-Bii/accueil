@@ -3,6 +3,9 @@
 | # | Module | Site Web |
 |---|--------------------|---------------------------------------------------------|
 | 1 | Environnement Unix | <https://du-bii.github.io/module-1-Environnement-Unix/> |
+| 2 | Python | <https://du-bii.github.io/module-2-Python/> |
+| 3 | Analyse statistique avec R | <https://github.com/DU-Bii/module-3-Stat-R> |
+
 
 # Contenus transversaux
 
