@@ -1,7 +1,7 @@
 # Modules
 
-| # | Module | Site Web |
-|---|--------------------|---------------------------------------------------------|
+| # | Module        | Site Web                                                |
+|---|---------------|---------------------------------------------------------|
 | 1 | Environnement Unix | <https://du-bii.github.io/module-1-Environnement-Unix/> |
 | 2 | Python | <https://du-bii.github.io/module-2-Python/> |
 | 3 | Analyse statistique avec R | <https://du-bii.github.io/module-3-Stat-R/> |
