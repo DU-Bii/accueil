@@ -15,6 +15,10 @@
 
 ## Glossaire
 
+## Formats de données
+
+## Liens utiles
+
 ## Biblio
 
 ## Study cases
