@@ -1,4 +1,4 @@
-# Diplôme Universitaire en Bioinformatique Universitaire (DU-Bii)
+# Diplôme Universitaire en Bioinformatique Universitaire ([DU-Bii](https://du-bii.github.io/accueil/))
 
 ## Description
 
