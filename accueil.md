@@ -1,4 +1,10 @@
-# Modules
+# Diplôme Universitaire en Bioinformatique Universitaire (DU-Bii)
+
+## Description
+
+... A ECRIRE ...
+
+## Modules d'enseignement
 
 
 | # | Module   | 
@@ -11,15 +17,15 @@
 | 6 | [Bioinformatique intégrative](https://du-bii.github.io/module-6-Integrative-Bioinformatics/) |
 |   | [Study cases](https://du-bii.github.io/study-cases/) |
 
-# Contenus transversaux
+## Contenus transversaux
 
-## Lexique
+### Lexique
 
-## Glossaire
+### Glossaire
 
-## Formats de données
+### Formats de données
 
-## Liens utiles
+### Liens utiles
 
-## Biblio
+### Biblio
 
