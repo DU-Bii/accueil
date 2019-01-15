@@ -2,7 +2,7 @@
 
 ## Description
 
-... A ECRIRE ...
+... A ECRIRE description générale de DU-Bii...
 
 ## Modules d'enseignement
 
@@ -26,6 +26,13 @@
 ### Formats de données
 
 ### Liens utiles
+
+| Contenu | URL |
+|--------------------|--------------------------------------------------------|
+| Supports de cours (github) | <https://du-bii.github.io/accueil/> |
+| Planning 2019 | <https://tinyurl.com/dubii19-planning> |
+| Moodle du DU-Bii (requiert identification) | <https://moodlesupd.script.univ-paris-diderot.fr/enrol/index.php?id=10629> |
+
 
 ### Biblio
 
