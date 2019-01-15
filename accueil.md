@@ -19,6 +19,10 @@
 
 ## Contenus transversaux
 
+### Planning DU-Bii 2019
+
+<https://tinyurl.com/dubii19-planning>
+
 ### Lexique
 
 ### Glossaire
