@@ -22,6 +22,6 @@ pull:
 	@echo "Disk usage per repository (Mb)"
 	@for r in ${REPO}; do \
 		echo "Pulling repository $${r}"; \
-		(cd $${r}; echo "	`pwd`"); \
+		(cd $${r}; echo "	`pwd`"; git pull); \
 	done
 
