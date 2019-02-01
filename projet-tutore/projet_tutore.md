@@ -2,7 +2,7 @@
 
 - [Introduction](#introduction)
 - [Travaux personnels du vendredi](#travaux-personnels-du-vendredi)
-    - [Semaine 1. Métadonnées](#semaine-1.-metadonnees)
+    - [Semaine 1 : Métadonnées](#semaine-1)
 
 ## Introduction
 
@@ -20,7 +20,7 @@ Le projet sera également supervisé par un ***encadrant académique***, choisi 
 
 Pendant les 4 semaines de cours, nous commencerons déjà à nous familiariiser avec les données qui serviront au projet tutoré sur plateforme. 
 
-### Semaine 1. Métadonnées
+### Semaine 1
 
 #### But du travail
 
