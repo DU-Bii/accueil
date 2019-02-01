@@ -12,7 +12,9 @@ Cette page synthétise les travaux personnels qui seront demandés pour les diff
 
 ### Module 1 : Unix
 
-**But:** utiliser l'une des méthodes vues à la séance 2 pour transférer au moins 2 fichiers de données de type NGS vers votre dossier projet sur le cluster IFB core. 
+**But:** utiliser l'une des méthodes vues à la séance 2 pour transférer vers votre dossier projet sur le cluster IFB core au moins 2 fichiers de données de type omique liées à votre projet (DNA-seq, RNA-seq, ChIP-seq, métabolomique, protéomique, ...). 
+
+**Attention**: si votre projet s'appuie sur des données sensibles (génome humain, données patients) vous ne pouvez bien entendu pas les transférer par internet. Le cluster IFB core n'est pas accrédité pour héberger des données de ce type, et les projets concernés seront menés sur des plateformes habilitées. Si c'est votre cas, nous vous proposons de transférer des jeux de données publics de même type. 
 
 **Description détaillée :** fin du diaporama de la [séance 2 du module Unix](https://du-bii.github.io/module-1-Environnement-Unix/seance2/slides/). 
 
