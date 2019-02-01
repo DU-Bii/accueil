@@ -2,8 +2,6 @@
 
 Pendant les 4 semaines de cours, nous commencerons déjà à nous familiariiser avec les données qui serviront au projet tutoré sur plateforme. 
 
-
-
 ## Semaine 1 : métadonnées
 
 ### But du travail
@@ -56,5 +54,9 @@ Les colonnes suivantes contiendront toute information pertinente (génotype, ph�
 - N’hésitez pas à ajouter des colonnes si elles vous semblent utiles pour décrire vos échantillons. Il est toujours plus facile de collecter l’information pendant qu’on est dans l’action, quitte à sélectionner ensuite un sous-ensemble des colonnes pour la publication dans une base de données.
 
 - N'hésitez pas à utiliser le forum slack pour échanger des informations, poser des questions, concernant la façon d'organiser votre tableau de description des échantillons. 
+
+## Rendu
+
+Le tableau de description des échantillons sera déposé sur le moodle du DU. 
 
 
