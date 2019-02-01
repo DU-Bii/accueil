@@ -75,6 +75,9 @@ Les colonnes suivantes contiendront toute information pertinente (génotype, ph�
 
 ### Rendu
 
-Le tableau de description des échantillons sera déposé sur le moodle du DU. 
+Le tableau de description des échantillons sera transféré vers votre espace projet du cluster IFB core, en utilisant l'une des méthodes présentées à la séance 2 du module Unix (scp, rsync, filezilla).
+
+- Adresse du cluster: `<username>@core.cluster.france-bioinformatique.fr`
+- Espace projet individuel: `/shared/projects/du_bii_2019/<username>`
 
 
