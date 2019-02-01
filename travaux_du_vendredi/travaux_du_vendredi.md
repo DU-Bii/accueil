@@ -7,8 +7,15 @@ Cette page synthétise les travaux personnels qui seront demandés pour les diff
 
 ## Semaine 1 (vendredi 1er février)
 
-1. **Projet tutoré:** 
+### Module 1 : Unix
 
-    - pour chaque type de données de votre projet, préparer un tableau de description des échantillons, avec une ligne par échantillon et une colonne par caractéristique. 
-    - Rendu sur moodle. 
-    - [Lire ici la description détaillée](../projet_tutore/).
+- **But:** utiliser l'une des méthodes vues à la séance 2 pour transférer au moins 2 fichiers de données de type NGS vers votre dossier projet sur le cluster IFB core. 
+
+- **Description détaillée : ** fin du diaporama de la [séance 2 du module Unix](https://du-bii.github.io/module-1-Environnement-Unix/seance2/slides/). 
+
+### Projet tutoré
+
+- **But :** pour chaque type de données de votre projet, préparer un tableau de description des échantillons, avec une ligne par échantillon et une colonne par caractéristique. 
+- **Rendu:** transférer le tableau de description des échantillons vers votre dossier projet sur le cluster IFB core. 
+- [Lire ici la **description détaillée**](../projet_tutore/).
+
