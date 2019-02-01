@@ -7,4 +7,8 @@ Cette page synthétise les travaux personnels qui seront demandés pour les diff
 
 ## Semaine 1 (vendredi 1er février)
 
-1. **Projet tutoré: ** tableau de description des échantillons (à remettre sur moodle)
+1. **Projet tutoré:** 
+
+    - pour chaque type de données de votre projet, préparer un tableau de description des échantillons, avec une ligne par échantillon et une colonne par caractéristique. 
+    - Rendu sur moodle. 
+    - [Lire ici la description détaillée](../projet-tutore/README.md).
