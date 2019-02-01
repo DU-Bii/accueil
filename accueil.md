@@ -16,8 +16,8 @@
 | 5 | [Méthodes et outils bioinformatiques pour l'analyse des données à haut débit](https://du-bii.github.io/module-5-Methodes-Outils/) |
 | 6 | [Bioinformatique intégrative](https://du-bii.github.io/module-6-Integrative-Bioinformatics/) |
 |   | [Study cases](https://du-bii.github.io/study-cases/) |
-|   | [Travaux du vendredi](travaux_du_vendredi/travaux_du_vendredi.md) |
-|   | [Projet tutoré](projet_tutore/projet_tutore.md) |
+|   | [Travaux du vendredi](travaux_du_vendredi/) |
+|   | [Projet tutoré](projet_tutore/) |
 
 ## Contenus transversaux
 
