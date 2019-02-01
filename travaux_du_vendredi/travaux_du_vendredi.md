@@ -5,13 +5,26 @@ Chaque semaine de cours du Diplôme Universitaire en Bioinformatique Intégrativ
 Cette page synthétise les travaux personnels qui seront demandés pour les différents modules au fil des semaines, et si fournit les liens vers leur description détaillée quand c'est utile. 
 
 
-## Semaine 1 (vendredi 1er février)
+## Semaine 1
+
+- Date: vendredi 1er février
+- Rendus attendus le 4 février
 
 ### Module 1 : Unix
 
 - **But:** utiliser l'une des méthodes vues à la séance 2 pour transférer au moins 2 fichiers de données de type NGS vers votre dossier projet sur le cluster IFB core. 
 
-- **Description détaillée : ** fin du diaporama de la [séance 2 du module Unix](https://du-bii.github.io/module-1-Environnement-Unix/seance2/slides/). 
+- **Description détaillée :** fin du diaporama de la [séance 2 du module Unix](https://du-bii.github.io/module-1-Environnement-Unix/seance2/slides/). 
+
+### Python
+
+**But:** 
+
+- Continuer lecture du chapitre 6
+- Exos : 5.4.1 à 5.4.5; 5.4.7 à 5.4.10; 6.6.1 à 6.6.4
+- Seront corrigés 5.4.5 et 5.4.10
+
+Bon courage les pythoneuses et pythoneux  ! 
 
 ### Projet tutoré
 
