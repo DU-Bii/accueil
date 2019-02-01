@@ -36,7 +36,14 @@ Nous demandons à chacun de fournir
 
 - Continuer lecture du chapitre 6
 - Exos : 5.4.1 à 5.4.5; 5.4.7 à 5.4.10; 6.6.1 à 6.6.4
-- Seront corrigés 5.4.5 et 5.4.10
+- Seront corrigés en cours les 5.4.5 et 5.4.10
+
+Pas de rendu écrit, mais ces exercices constituent une préparation des évaluations prévues durant les cours. 
+
+- QCM1 : 6 février
+- QCM2 : 20 février
+- Script 20 février : a rendre à une date fixée ultérieurement
+
 
 Bon courage les pythoneuses et pythoneux  ! 
 
