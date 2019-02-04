@@ -1,0 +1,53 @@
+---
+title: "Travailler sur le cluster de l'IFB"
+author: "Jacques van Helden, Julien Seiler et Gildas Lecorguillé"
+date: "2/4/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Connexion
+
+
+
+## Organisation des dossiers
+
+### Votre dossier personnel
+
+Chaque usager dispose d'un compte personnel identifié par la variable d'environnement `${HOME}` ou le symbole `~`.
+
+```bash
+# Print the path to your HOME folder
+echo ${HOME}
+echo ~        # equivalent result
+
+# Go to your home folder
+cd ${HOME}
+cd ~       # equivalent
+```
+
+
+### Votre dossier projet
+
+Pour le DU-Bii, chaque apprenant dispose en outre d'un dossier projet, qui sera partagé -- uniquement pendant le temps de la formation -- entre lui, son tuteur sur la plateforme d'accueil IFB, et son encadrant académique. 
+
+`/shared/projects/du_bii_2019/<username>`
+
+(remplacez `<username>`) par votre propre nom d'usager sur le cluster.
+
+### L'espace partagé pour tous les participants
+
+Nous avons en outre créé un espace partagé par tous les aprticipants de la formation. Cet espace est accessible
+
+- en écriture pour les formateurs
+- en lecture pour les apprenants
+
+```bash
+ls -1 /shared/projects/du_bii_2019/data/
+```
+
+
+
