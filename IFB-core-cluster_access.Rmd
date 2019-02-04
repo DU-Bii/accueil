@@ -71,7 +71,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Connexion
 
-
+```bash
+ssh <username>@core.cluster.france-bioinformatique.fr
+```
+*(remplacez `<username>`) par votre propre nom d'usager sur le cluster.*
 
 ## Organisation des dossiers
 
@@ -96,7 +99,7 @@ Pour le DU-Bii, chaque apprenant dispose en outre d'un dossier projet, qui sera 
 
 `/shared/projects/du_bii_2019/<username>`
 
-(remplacez `<username>`) par votre propre nom d'usager sur le cluster.
+*(remplacez `<username>`) par votre propre nom d'usager sur le cluster.*
 
 ### L'espace partagé pour tous les participants
 

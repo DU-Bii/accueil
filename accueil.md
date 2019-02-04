@@ -4,6 +4,7 @@
 
 ... A ECRIRE description générale de DU-Bii...
 
+
 ## Modules d'enseignement
 
 
@@ -18,6 +19,7 @@
 |   | [Study cases](https://du-bii.github.io/study-cases/) |
 |   | [Travaux du vendredi](travaux_du_vendredi/) |
 |   | [Projet tutoré](projet_tutore/) |
+|   | [Travailler sur le cluster IFB core](IFB-core-cluster_access.html) |
 
 ## Contenus transversaux
 
