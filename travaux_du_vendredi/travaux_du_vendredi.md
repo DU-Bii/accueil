@@ -75,7 +75,7 @@ Le QCM est se trouve sur Moodle dans la rubrique *Module 1 Unix*.
 
 La syntaxe d’utilisation de `samtools` pour le tri d’un fichier bam est :
 ```
-samtools sort aln.bam aln-sorted
+samtools sort fichier.bam fichier.bam-sorted
 ```
 
 Remarque : vous n'avez pas besoin de *réellement* avoir des fichiers bam dans le répertoire `~/data/bam/` pour réaliser cet exercice.
