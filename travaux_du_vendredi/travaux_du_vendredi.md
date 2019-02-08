@@ -55,3 +55,29 @@ Bon courage les pythoneuses et pythoneux  !
 - **Rendu:** transférer le tableau de description des échantillons vers votre dossier projet sur le cluster IFB core. 
 - [Lire ici la **description détaillée**](../projet_tutore/).
 
+
+## Semaine 2
+
+
+### Module 1 : Unix
+
+Pour l'évaluation finale de ce module, vous aurez à répondre à un QCM et à produire un script Bash pour le vendredi 15 février 20h00.
+
+#### QCM 
+
+Le QCM est se trouve sur Moodle dans la rubrique *Module 1 Unix*.
+
+
+#### Script Bash
+
+Écrivez un script bash qui trie le contenu de chacun des fichiers bam stockés dans votre répertoire ~/data/bam/ en utilisant l'outil `samtools`. Le script bash prendra en argument sur la ligne de commande le nom du répertoire où se trouve les fichiers bam.
+
+La syntaxe d’utilisation de `samtools` pour le tri d’un fichier bam est :
+```
+samtools sort aln.bam aln-sorted
+```
+
+Remarque : vous n'avez pas besoin de *réellement* avoir des fichiers bam dans le répertoire `~/data/bam/` pour réaliser cet exercice.
+
+Vous déposerez votre script bash sur Moodle, dans la rubrique "Module 1 Unix*.
+
