@@ -80,3 +80,13 @@ samtools sort fichier.bam fichier.bam-sorted
 
 Remarque : vous n'avez pas besoin de *réellement* avoir des fichiers bam dans le répertoire `~/data/bam/` pour réaliser cet exercice.
 
+### Module 3 : Statistiques et R
+
+#### Projet
+
+Nous vous proposons de continuer le TP fait lors de la séance 2, avec [ce sujet](https://github.com/DU-Bii/module-3-Stat-R/blob/master/travaux/TP_exMaison.pdf).
+
+Nous vous demandons de rendre une archive sur moodle, avant lundi 18 février 3h00 (dans la nuit donc). Cet archive devra avoir pour nom : NOM.tgz. Elle devra contenir un document NOM.pdf contenant votre compte-rendu de projet et un document NOM.Rmd contenant le code qui vous a servi à répondre.
+
+Sur moodle le dépot se fait dans la section "travaux du vendredi", dans la partie "Module 3, R et stat, projet 1".[ici](https://moodlesupd.script.univ-paris-diderot.fr/mod/assign/view.php?id=173758)
+
