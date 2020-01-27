@@ -10,6 +10,9 @@
 
 | # | Module   | 
 |---|----------------------------------------------|
+| 0 | [Activités préparatoires et prérequis](activites_preparatoires/) |
+
+<!--
 | 1 | [Environnement Unix](https://du-bii.github.io/module-1-Environnement-Unix/) |
 | 2 | [Python](https://du-bii.github.io/module-2-Python/) |
 | 3 | [Analyse statistique avec R](https://du-bii.github.io/module-3-Stat-R/) |
@@ -21,17 +24,11 @@
 |   | [Projet tutoré](projet_tutore/) |
 |   | [Travailler sur le cluster IFB core](IFB-core-cluster_access.html) |
 
-## Contenus transversaux
+-->
 
 ### Planning DU-Bii 2019
 
 <https://tinyurl.com/dubii19-planning>
-
-### Lexique
-
-### Glossaire
-
-### Formats de données
 
 ### Liens utiles
 
@@ -40,9 +37,6 @@
 | Supports de cours (github) | <https://du-bii.github.io/accueil/> |
 | Planning 2019 | <https://tinyurl.com/dubii19-planning> |
 | Moodle du DU-Bii (requiert identification) | <https://moodlesupd.script.univ-paris-diderot.fr/enrol/index.php?id=10629> |
-
-
-### Biblio
 
 
 ## Licence
