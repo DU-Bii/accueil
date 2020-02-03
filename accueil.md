@@ -26,16 +26,13 @@
 
 -->
 
-### Planning DU-Bii 2019
-
-<https://tinyurl.com/dubii19-planning>
 
 ### Liens utiles
 
 | Contenu | URL |
 |--------------------|--------------------------------------------------------|
 | Supports de cours (github) | <https://du-bii.github.io/accueil/> |
-| Planning 2019 | <https://tinyurl.com/dubii19-planning> |
+| Planning | [ici](img/planning_DUBii_2020.png) |
 | Moodle du DU-Bii (requiert identification) | <https://moodlesupd.script.univ-paris-diderot.fr/enrol/index.php?id=10629> |
 
 
