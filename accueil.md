@@ -2,7 +2,7 @@
 
 ## Description
 
-... A ECRIRE description générale de DU-Bii...
+L’appropriation par des biologistes des méthodes et outils de biostatistique et bioinformatique intégrative est un enjeu majeur pour la montée en compétence des équipes de recherche et des plateformes de service. Le DU en bioinformatique intégrative s’adresse en priorité à des biologistes en demande d’évolution ou de reconversion  professionnelle. Ce  DU  fournit une  formation théorique et pratique, complétée par une période d’immersion sur une des plateformes régionales de l’Institut Français  de Bioinformatique (IFB), dans le cadre d’un projet tutoré.
 
 
 ## Modules d'enseignement
