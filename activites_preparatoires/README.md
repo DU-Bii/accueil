@@ -42,6 +42,7 @@ Ensuite, nous vous demandons de travailler [notre ressource Python en ligne](htt
 * 5.4.4. Nombres pairs et impairs
 * 5.4.5. Calcul de la moyenne
 ​
+
 [Tests](https://python.sdv.univ-paris-diderot.fr/06_tests/) et les exercices
 
 * 6.7.1. Jours de la semaine
