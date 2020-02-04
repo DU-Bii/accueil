@@ -4,7 +4,7 @@ L'objectif de ces activités préparatoires est de vous faire acquérir quelques
 
 Ces activités sont à terminer avant le début des cours, soit le lundi 3 mars 2020, 10h00. La réalisation de ces activités sont essentielles pour le bon déroulement de la formation. Rassurez-vous néanmoins, nous aurons l'occasion de revoir ensemble toutes les notions abordées dans les activités préparatoires lors des premiers cours. Vous pourrez alors poser toutes vos questions.
 
-Une partie de ces activités sont à réaliser sur le site DataCamp qui permet de manipuler interactivement, dans un navigateur web, les différentes notions abordées. Vous pouvez travailler à votre rythme et dans l'ordre que vous préférez. Vous recevrez par e-mail un lien pour vous inscrire et créez votre compte sur DataCamp.
+Une partie de ces activités sont à réaliser sur le site DataCamp qui permet de manipuler interactivement, dans un navigateur web, les différentes notions abordées. Vous pouvez travailler à votre rythme et dans l'ordre que vous préférez. Vous recevrez par e-mail un lien pour vous inscrire et créer votre compte sur DataCamp.
 
 
 ## Unix
@@ -22,9 +22,9 @@ Temps estimé : 3 heures.
 
 ## Python
 
-Dans un premier temps, nous vous suggérons d'apprendre les bases de Python sur le site de Datacamp.
+Dans un premier temps, nous vous suggérons d'apprendre les bases de Python sur le site de DataCamp.
 
-Cours [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) sur Datacamp.
+Cours [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) sur DataCamp.
 
 Chapitres à traiter :
 ​
@@ -48,9 +48,12 @@ Ensuite, nous vous demandons de travailler [notre ressource Python en ligne](htt
 * 6.7.2. Séquence complémentaire d'un brin d'ADN
 * 6.7.4. Fréquence des acides aminés
 
+
 Temps estimé : 1 heure.
 ​
+
 Pour la partie sur les boucles et les tests, nous vous conseillons d'utiliser le site [pythontutor](http://pythontutor.com/) qui permet de "pythonner" en ligne sans avoir à installer Python sur votre machine.
+
 ​
 Lors du premier cours, nous vous fournirons un polycopié complet du cours. Inutile donc de l'imprimer de votre côté.
 ​
