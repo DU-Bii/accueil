@@ -1,4 +1,4 @@
-# Activités prépartoires et prérequis
+# Activités préparatoires et prérequis
 
 L'objectif de ces activités préparatoires est de vous faire acquérir quelques compétences de base, notamment en Unix, Python et R. 
 
