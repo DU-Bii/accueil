@@ -57,6 +57,28 @@ Lors du premier cours, nous vous fournirons un polycopié complet du cours. Inut
 
 ## R
 
-Les activités préparatoires pour R vous serons communiquées très prochainement, sur cette même page.
+Pour les activités préparatoires sur R, nous vous proposons de suivre le fil du [diaporama](prerequis_diaporama_r.pdf). Un [script R](prerequis_script.R) correspondant aux commandes du diaporama vous est fourni.
 
-Stay tuned  ;-) 
+1. Tout d’abord vous ferez vos **Premiers Pas avec R** (diapositives 3 à 22) avec des liens vers 4 vidéos et 4 quizz d’autoévaluation.
+
+    Temps estimé : 1 h
+
+2. Ensuite (diapo 23) vous pratiquerez certaines notions de manière interactive avec le paquet d’autoapprentissage **SWIRL** : leçons 1 et 3 à 6 du chapitre « 1. R programming »
+
+    Temps estimé : 2h30 (15 à 30 minutes par leçon)
+
+3. Puis vous approfondirez la manipulation des **vecteurs** et des **matrices** (diapos 24 à 44).
+
+    Temps estimé : 30 minutes
+
+4. Enfin, [12 exercices](prerequis_exercices_r.pdf) sur les vecteurs vous sont proposés. Les corrections et des explications complémentaires vous seront communiquées le 23/02/2020.
+
+    Temps estimé : 1h30 minutes
+    <!-- [Corrections]() -->
+
+À l’issu de ces activités, vous devriez être capable de :
+- vous orienter dans votre répertoire de travail ;
+- trouver de l’aide sur les fonctions R ;
+- citer quelques exemples de types de variables et d’objets ;
+- créer et manipuler de manière approndondie les vecteurs qui sont les objets de base en langage R ;
+- créer et manipuler des matrices (de façon basique).
