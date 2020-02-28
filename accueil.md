@@ -28,7 +28,7 @@ L’appropriation par des biologistes des méthodes et outils de biostatistique 
 ### Liens utiles
 
 | Contenu | Description |  URL |
-|-------------|------------------------------|-------------------------------------------------------|
+|---------|------------------|-------------------------------------------------------|
 | Github | Supports de cours, versions, backups | <https://du-bii.github.io/accueil/> |
 | Planning | Planning DU-Bii 2020  | [ici](img/planning_DUBii_2020.png) |
 | Slack | forum pour échanges immédiats, pas d’archivage | <https://dubii.slack.com> |
