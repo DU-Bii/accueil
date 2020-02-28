@@ -31,14 +31,12 @@ L’appropriation par des biologistes des méthodes et outils de biostatistique 
 |--------------------|--------------------------------------------------------|
 | Supports de cours (github) | <https://du-bii.github.io/accueil/> |
 | Planning | [ici](img/planning_DUBii_2020.png) |
+| Serveur RStudio IFB | <https://rstudio.cluster.france-bioinformatique.fr/> |
+| Support communautaire IFB | <https://support.cluster.france-bioinformatique.fr/> |
 
 <!--
 | Moodle du DU-Bii (requiert identification) | <https://moodlesupd.script.univ-paris-diderot.fr/enrol/index.php?id=10629> |
 -->
-
-## Planning
-
-A AJOUTER
 
 ## Licence
 
