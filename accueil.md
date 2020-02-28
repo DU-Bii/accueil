@@ -28,13 +28,13 @@ L’appropriation par des biologistes des méthodes et outils de biostatistique 
 
 ### Liens utiles
 
-| Contenu | Description |  URL |
+| Contenu | Description |  Localisation |
 |---------|------------------|-------------------------------------------------------|
 | Github | Supports de cours, versions, backups | <https://du-bii.github.io/accueil/> |
 | Planning | Planning DU-Bii 2020  | [ici](img/planning_DUBii_2020.png) |
 | Slack | forum pour échanges immédiats, pas d’archivage | <https://dubii.slack.com> |
 | Moodle | Communications officielles, rapports de travaux personnels, tests, ... | <https://moodlesupd.script.univ-paris-diderot.fr> |
-| Ordinateurs P7 | Premiers TP, visualisation (IGV), analyse de réseaux (CytoScape) | Paris-Diderot, salle 189B, 35 rue Hélène Brion |
+| Ordinateurs locaux | Premiers TP, visualisation (IGV), analyse de réseaux (CytoScape) | Université de Paris, salles Lamarck A 525 puis B 281, 35 rue Hélène Brion |
 | IFB core cluster | Calculs intensifs (accès ligne de commande) | ssh [login]@core.cluster.france-bioinformatique.fr |
 | Serveur RStudio IFB | Stat pour la bioinfo + tutorat si affinités | <https://rstudio.cluster.france-bioinformatique.fr/> |
 | Support communautaire IFB | Support par les ingé IFB + entraide et échanges d’expériences entre usagers | <https://support.cluster.france-bioinformatique.fr/> |
