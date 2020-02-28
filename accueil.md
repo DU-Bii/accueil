@@ -28,21 +28,17 @@ L’appropriation par des biologistes des méthodes et outils de biostatistique 
 ### Liens utiles
 
 | Contenu | Description |  URL |
-|--------------------|-------------------------------------|-------------------------------------------------------|
-| Supports de cours (github) | <https://du-bii.github.io/accueil/> |
-| Planning | [ici](img/planning_DUBii_2020.png) |
-| Serveur RStudio IFB | <https://rstudio.cluster.france-bioinformatique.fr/> |
-| Support communautaire IFB | <https://support.cluster.france-bioinformatique.fr/> |
+|-------------|------------------------------|-------------------------------------------------------|
 | Github | Supports de cours, versions, backups | <https://du-bii.github.io/accueil/> |
-| Planning | Planning DU-Bii 2020 | <https://tinyurl.com/dubii20-planning> |
+| Planning | Planning DU-Bii 2020  | [ici](img/planning_DUBii_2020.png) |
 | Slack | forum pour échanges immédiats, pas d’archivage | <https://dubii.slack.com> |
 | Moodle | Communications officielles, rapports de travaux personnels, tests, ... | <https://moodlesupd.script.univ-paris-diderot.fr> |
-| Ordinateurs P7 | Premiers TP, visualisation (IGV), analyse de réseaux (CytoScape) | <Paris-Diderot, salle 189B, 35 rue Hélène Brion> |
-| IFB core cluster | Calculs intensifs (accès ligne de commande) | <ssh [login]@core.cluster.france-bioinformatique.fr> |
+| Ordinateurs P7 | Premiers TP, visualisation (IGV), analyse de réseaux (CytoScape) | Paris-Diderot, salle 189B, 35 rue Hélène Brion |
+| IFB core cluster | Calculs intensifs (accès ligne de commande) | ssh [login]@core.cluster.france-bioinformatique.fr |
 | Serveur RStudio IFB | Stat pour la bioinfo + tutorat si affinités | <https://rstudio.cluster.france-bioinformatique.fr/> |
 | Support communautaire IFB | Support par les ingé IFB + entraide et échanges d’expériences entre usagers | <https://support.cluster.france-bioinformatique.fr/> |
-| Apprenants | Présentation synthétique des apprenants | <https://tinyurl.com/dubii20-apprenants> |
-| Formateurs | Présentation synthétique des formateurs | <https://tinyurl.com/dubii2020-formateurs> |
+| Apprenants | Trombinoscope apprenants | <https://tinyurl.com/dubii20-apprenants> |
+| Intervenants | Trombinoscope des intervenants | <https://tinyurl.com/dubi20-intervenants> |
 
 <!--
 | Moodle du DU-Bii (requiert identification) | <https://moodlesupd.script.univ-paris-diderot.fr/enrol/index.php?id=10629> |
