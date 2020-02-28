@@ -10,7 +10,6 @@ L’appropriation par des biologistes des méthodes et outils de biostatistique 
 | # | Module   | 
 |---|----------------------------------------------|
 | 0 | [Activités préparatoires et prérequis](activites_preparatoires/) |
-
 | 1 | [Environnement Unix](https://du-bii.github.io/module-1-Environnement-Unix/) |
 | 2 | [Python](https://du-bii.github.io/module-2-Python/) |
 | 3 | [Analyse statistique avec R](https://du-bii.github.io/module-3-Stat-R/) |
