@@ -9,6 +9,12 @@ Pensez à ajouter une photo et des illustrations de votre sujet de recherche (gr
 
 ## Unix 
 
+1. Refaites les tutos des séances 1 et 2, mais cette fois sur le cluster de l'IFB.
+2. Répondez à la la question 9 de la séance 2, partie 2.3, rubrique "Le pipe |".
+3. Transférez un petit fichier depuis votre ordinateur du labo ou à la maison vers votre compte sur le cluster.
+4. En vous inspirant de la rubrique "Compression et achivage" de la séance 2, ainsi que de tout ce que vous avez appris lors de la session 3, écrivez un script Slurm qui décompresse une archive avec les commandes `srun` et `tar`. Lancez ensuite ce script avec `sbatch`. Vérifiez que vous obtenez le résultat attendu.
+
+
 ## Python
 
 * lire le chapitre **[7. Fichiers](https://python.sdv.univ-paris-diderot.fr/07_fichiers/)**
@@ -17,7 +23,9 @@ Pensez à ajouter une photo et des illustrations de votre sujet de recherche (gr
 * faire un exercice sur les **tests** ([6.7.9 méthode 1](https://python.sdv.univ-paris-diderot.fr/06_tests/#methode-1-peu-optimale-mais-assez-intuitive))
 * faire les exercices sur les **fichiers** ([7.7.1](https://python.sdv.univ-paris-diderot.fr/07_fichiers/#771-moyenne-des-notes), [7.7.2](https://python.sdv.univ-paris-diderot.fr/07_fichiers/#772-admis-ou-recale) et [7.7.3](https://python.sdv.univ-paris-diderot.fr/07_fichiers/#773-spirale-exercice))
 
+
 ## R
+
 
 ## Projet tutoré
 
