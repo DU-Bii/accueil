@@ -26,6 +26,9 @@ Pensez à ajouter une photo et des illustrations de votre sujet de recherche (gr
 
 ## R
 
+Terminer les exercices des deux séances de cette semaine.
+
+
 
 ## Projet tutoré
 
