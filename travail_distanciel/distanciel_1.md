@@ -10,7 +10,7 @@ Pensez à ajouter une photo et des illustrations de votre sujet de recherche (gr
 ## Unix 
 
 1. Refaites les tutos des séances 1 et 2, mais cette fois sur le cluster de l'IFB.
-2. Répondez à la la question 9 de la séance 2, partie 2.3, rubrique "Le pipe |".
+2. Répondez à la la question 9 de la séance 2, partie 2.3, rubrique "Le pipe `|`".
 3. Transférez un petit fichier depuis votre ordinateur du labo ou à la maison vers votre compte sur le cluster.
 4. En vous inspirant de la rubrique "Compression et achivage" de la séance 2, ainsi que de tout ce que vous avez appris lors de la session 3, écrivez un script Slurm qui décompresse une archive avec les commandes `srun` et `tar`. Lancez ensuite ce script avec `sbatch`. Vérifiez que vous obtenez le résultat attendu.
 
