@@ -33,6 +33,6 @@ Terminer les exercices des deux séances de cette semaine.
 ## Projet tutoré
 
 Réaliser une première version, éventuellement incomplête, de l'**organigramme (flowchart)** qui expose la logique de votre projet d'analyse bioinformatique avec les étapes principales envisagées.
-Utiliser pour cela le logiciel **draw.io** (https://www.draw.io) et choisir le type *Flowcharts* puis un des modèles proposés approprié à votre projet tutoré.  
+Utiliser pour cela le logiciel **[draw.io](https://www.draw.io)** et choisir le type *Flowcharts* puis un des modèles proposés approprié à votre projet tutoré.  
 * Date de remise sur moodle : **lundi 9 mars 2020**  
 * Date de présentation devant l'équipe pédagogique : 24 & 25 mars, 31 mars & 1er avril
