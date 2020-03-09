@@ -66,7 +66,7 @@ is.numeric(x)
 sink()
 close(zz)
 
-#Saving your session, data and history
+# Saving your session, data and history
 save(x, file = "x.RData")
 save.image(file = "AllMyData.RData")
 savehistory(file = "MyHistory.Rhistory")
@@ -154,7 +154,7 @@ str(my_vector)
 # LES MATRICES: dias 35 à 44
 #---------------------------
 
-# Cretaing a matrix with matrix()
+# Creating a matrix with matrix()
 myData <- matrix(c(1,2,3, 11,12,13), nrow = 2, ncol = 3, byrow = TRUE)
 myData
 
@@ -174,7 +174,7 @@ myData[2,]
 myData[,2:3]
 dim(myData[,2:3]) 
 
-# Strcuture and dimension:
+# Strcuture and dimensions:
 dim(myData)
 mode(myData)
 class(myData)
@@ -212,7 +212,7 @@ myData3 <- rbind(weight, size, bmi)
 myData3
 t(myData2) # transpose myData2 -> we obtain the same matrix as myData3
 
-#Row and column names of a matrix
+# Row and column names of a matrix
 rownames(myData2)
 colnames(myData2)
 rownames(myData) 
@@ -223,7 +223,7 @@ myData
 myData["B",]
 myData[,"two"]
 
-#Operations and functions on matrices:
+# Operations and functions on matrices:
 myData2*2
 summary(myData2)
 mean(myData2)
@@ -232,4 +232,4 @@ mean(myData2[,1])
 # Saving data
 save.image(file = "Prerequis.RData")
 save(weight, size, bmi, file = "anthropo.RData")
-#load("anthropo.RData")
+# load("anthropo.RData")
