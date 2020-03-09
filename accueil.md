@@ -40,8 +40,8 @@ L’appropriation par des biologistes des méthodes et outils de biostatistique 
 
 | Contenu | Description |  Localisation |
 |---------|------------------|-------------------------------------------------------|
-| Github | Supports de cours, versions, backups | <https://du-bii.github.io/accueil/> |
-| Planning | Planning DU-Bii 2020  | [ici](img/planning_DUBii_2020.png) |
+| Git pages | Supports de cours, versions, backups | <https://du-bii.github.io/accueil/> |
+| Planning | Planning DU-Bii 2020  | [[pdf](img/planning_DUBii_2020.pdf)] [[png](img/planning_DUBii_2020.png)] |
 | Slack | forum pour échanges immédiats, pas d’archivage | <https://dubii.slack.com> |
 | Moodle | Communications officielles, rapports de travaux personnels, tests, ... | <https://moodlesupd.script.univ-paris-diderot.fr> |
 | Ordinateurs locaux | Premiers TP, visualisation (IGV), analyse de réseaux (CytoScape) | Université de Paris, salles Lamarck A 525 puis B 281, 35 rue Hélène Brion |
