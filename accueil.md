@@ -27,10 +27,10 @@ L’appropriation par des biologistes des méthodes et outils de biostatistique 
 
 ### Travail distanciel
 
-[Vendredi 06/03](travail_distanciel/distanciel_1.md)
+- [Vendredi 06/03](travail_distanciel/distanciel_1.md)
+- [vendredi 13/03 + semaine du 16/03 au 20/03](travail_distanciel/distanciel_2.md)
 
 <!--
-[vendredi 13/03 + semaine du 16/03 au 20/03](travail_distanciel/distanciel_2.md)
 [Vendredi 27/03](travail_distanciel/distanciel_3.md)
 [Vendredi 03/04](travail_distanciel/distanciel_4.md)
 -->
