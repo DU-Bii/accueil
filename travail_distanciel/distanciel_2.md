@@ -3,16 +3,17 @@
 
 ## Unix 
 Finir les exercices du tutoriel de **[script bash de la séance 4 ](https://du-bii.github.io/module-1-Environnement-Unix/seance4/tutorial/scripts_ngs.html)**: 
-* écrire et exécuter le dernier script V3 (version avec l'option `--array`) de l'exercice 1 sur le cluster,  vérifier l'exécution et évaluer le temps total d’exécution du script avec la commande `sacct`
-* crire et exécuter le script de l'exercice 2 sur le cluster,  vérifier l'exécution et évaluer le temps total d’exécution du script avec la commande `sacct`
+* écrire et exécuter le dernier script V3 (version avec l'option `--array`) de l'exercice 1 sur le cluster,  vérifier l'exécution et indiquer le numéro du job le temps total d’exécution du script sous **[moodle ](https://moodlesupd.script.univ-paris-diderot.fr)**
+* écrire et exécuter le script de l'exercice 2 sur le cluster,  vérifier l'exécution et indiquer le numéro du job et le temps total d’exécution du script sous **[moodle ](https://moodlesupd.script.univ-paris-diderot.fr)**
 
 ## Projet tutoré 
-1. **Vendredi 13 mars:** : RV à **10:00** pour un **tutoriel sur Opidor** en visio conférence. Ensuite vous devrez initier une première version de  votre **Plan de Gestion de Données** sur **Opidor**. Vous bénéficierez d'un support en ligne sur le **[canal Slack du DUBii](https://dubii.slack.com)**.
+1. **Vendredi 13 mars:** : Travail en distanciel sur votre **Plan de Gestion de Données**.  
+RV à **10:00** pour un **tutoriel sur Opidor en visio conférence**. Ensuite vous devrez initier une première version de  votre **Plan de Gestion de Données** sur **Opidor**. Vous bénéficierez d'un support en ligne sur le **[canal Slack du DUBii](https://dubii.slack.com)**.
 2. **Semaine du 16 au 20 mars 2020**  
-Produire un tableau résumant vos données du projet tutoré en créant :
-* un onglet par jeu de données et en précisant pour chaque jeud de données les informations suivantes :  
-* décrire pour chaque onglet : en ligne les échantillon de données et en colonnes la liste de toutes les métadonnées dont vous disposez sur les échantillons analysés.    
-Evaluer ensuite la volumétrie totale de chaque jeu de données de votre projet tutoré.  
-3. Ajouter votre workflow dans le diaporama de présentation des apprenants en créant une diapo supplémentaire à la suite de votre **[diapo de présentation ](https://tinyurl.com/dubii20-apprenants)**  
+Produire un **tableau résumant les données de votre projet tutoré** en créant :
+* un onglet par jeu de données  
+* pour chaque onglet : décrire en ligne les échantillons de données et en colonnes la liste de toutes les métadonnées dont vous disposez sur les échantillons      
+Evaluer ensuite la **volumétrie totale de chaque jeu de données de votre projet tutoré**.  
+3. Ajouter votre **wflowchart** dans le diaporama de présentation des apprenants en créant une diapo supplémentaire à la suite de votre **[diapo de présentation ](https://tinyurl.com/dubii20-apprenants)**  
 
 
