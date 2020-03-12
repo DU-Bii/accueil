@@ -7,8 +7,8 @@ Finir les exercices du tutoriel de **[script bash de la séance 4 ](https://du-b
 * écrire et exécuter le script de l'exercice 2 sur le cluster,  vérifier l'exécution et indiquer le numéro du job et le temps total d’exécution du script sous **[moodle ](https://moodlesupd.script.univ-paris-diderot.fr)**
 
 ## Projet tutoré 
-1. **Vendredi 13 mars:** : Travail en distanciel sur votre **Plan de Gestion de Données**.  
-RV à **10:00** pour un **tutoriel sur Opidor en visio conférence**. Ensuite vous devrez initier une première version de  votre **Plan de Gestion de Données** sur **Opidor**. Vous bénéficierez d'un support en ligne sur le **[canal Slack du DUBii](https://dubii.slack.com)**.
+1. **Vendredi 13 mars:** : Travail en distanciel sur votre **Plan de Gestion de Données (PGD ou DMP)**.  
+RV à **10:00** pour un **tutoriel sur Opidor en visio conférence**. Ensuite vous devrez initier une première version de  votre PGD. Vous bénéficierez d'un support en ligne sur le **[canal Slack du DUBii](https://dubii.slack.com)**.
 2. **Semaine du 16 au 20 mars 2020**  
 Produire un **tableau résumant les données de votre projet tutoré** en créant :
 * un onglet par jeu de données  
