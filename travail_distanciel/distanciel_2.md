@@ -12,7 +12,7 @@ Finir les exercices du tutoriel de **[script bash de la séance 4 ](https://du-b
 ## Projet tutoré 
 
 1. **Vendredi 13 mars:** : Travail en distanciel sur votre **Plan de Gestion de Données (PGD ou DMP)**.  
-RV à **10:00** pour un **tutoriel sur Opidor en visio conférence**. Ensuite vous devrez initier une première version de  votre PGD. Vous bénéficierez d'un support en ligne sur le **[canal Slack du DUBii](https://dubii.slack.com)**.
+RV à **10:00** pour un **tutoriel sur Opidor en visio conférence**, voir ici le **[mode d'emploi](https://tinyurl.com/dubii-visio)** pour vous connecter en visio. Ensuite vous devrez initier une première version de  votre PGD. Vous bénéficierez d'un support en ligne sur le **[canal Slack du DUBii](https://dubii.slack.com)**.
 
 2. **Semaine du 16 au 20 mars 2020**  
 
