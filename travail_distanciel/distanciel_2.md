@@ -14,6 +14,6 @@ Produire un **tableau résumant les données de votre projet tutoré** en créan
 * un onglet par jeu de données  
 * pour chaque onglet : décrire en ligne les échantillons de données et en colonnes la liste de toutes les métadonnées dont vous disposez sur les échantillons      
 Evaluer ensuite la **volumétrie totale de chaque jeu de données de votre projet tutoré**.  
-3. Ajouter votre **wflowchart** dans le diaporama de présentation des apprenants en créant une diapo supplémentaire à la suite de votre **[diapo de présentation ](https://tinyurl.com/dubii20-apprenants)**  
+3. Ajouter votre **flowchart** dans le diaporama de présentation des apprenants en créant une diapo supplémentaire à la suite de votre **[diapo de présentation ](https://tinyurl.com/dubii20-apprenants)**  
 
 
