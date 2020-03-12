@@ -16,11 +16,7 @@ RV à **10:00** pour un **tutoriel sur Opidor en visio conférence**, voir le **
 
 2. **Semaine du 16 au 20 mars 2020**  
 
-Produire un **tableau décrivant les métadonnées de votre projet tutoré** en créant :
-
-* un onglet par type de données
-
-* pour chaque onglet : décrire en ligne les échantillons et en colonnes la liste de tous les attributs dont vous disposez sur les échantillons      
+Produire un **tableau décrivant les métadonnées de votre projet tutoré**, voir instructions sur la page dédiée **[DUBii-projet tutoré](https://du-bii.github.io/projets-tutores-DUBii/)** 
 
 Evaluer ensuite la **volumétrie totale de chaque jeu de données de votre projet tutoré**.  
 
