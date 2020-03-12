@@ -1,4 +1,4 @@
-**<font color="red">Attention, cette page concerne le projet 2019. Les projets tutorés 2020 sont dans un nouveau dépôt. </font>**
+**Attention, cette page concerne le projet 2019. Les projets tutorés 2020 sont dans un nouveau dépôt. **
 
 
 # Projet tutoré 2019
