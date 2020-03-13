@@ -9,6 +9,27 @@ Finir les exercices du tutoriel de **[script bash de la séance 4 ](https://du-b
 
 * écrire et exécuter le script de l'exercice 2 sur le cluster,  vérifier l'exécution et indiquer le numéro du job et le temps total d’exécution du script sous **[moodle ](https://moodlesupd.script.univ-paris-diderot.fr)**
 
+## Python
+
+**Un peu de travail pour la prochaine séance**
+
+- Refaire le [TP sur Jupyter](https://cupnet.net/intro-jupyter-dubii/)
+- [Exo 5.4.12](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/#5412-parcours-de-demi-matrice-sans-la-diagonale-exercice) Parcours de demi-matrice sans la diagonale
+- [Exo 6.7.9 (méthode 2)](https://python.sdv.univ-paris-diderot.fr/06_tests/#methode-2-plus-optimale-et-plus-rapide-mais-un-peu-plus-compliquee) Détermination des nombres premiers inférieurs à 100
+- [Exo 8.7.9](https://python.sdv.univ-paris-diderot.fr/08_modules/#879-determination-du-nombre-pi-par-la-methode-monte-carlo-exercice) Détermination du nombre pi par la méthode Monte-Carlo ; si vous vous sentez capable, vous pouvez essayer de faire l'exercice dans un notebook jupyter et de faire un plot inspiré de la [page Wikipedia sur le Monte-Carlo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pi_30K.gif/440px-Pi_30K.gif) : les points dans le cercle en rouge, les points or du cercle en bleu. Vous pouvez utiliser pour cela la fonction `plt.scatter(x, y)`. Cette fonction dessine un nuage de points dans un graphe, par exemple :
+
+```
+import matplotlib.pyplot as plt
+
+x = [1, 3, 4, 4, 7, 8, 2, 5, 7, 2]
+y = [8, 9, 1, 2, 9, 4, 2, 2, 2, 8]
+
+plt.scatter(x,y)
+plt.show() # inutile dans un notebook, obligatoire dans un script lancé dans un shell
+```
+
+- Lire les chapitres [10 Plus sur les chaînes de caractères](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/) et [11 Plus sur les listes](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/)
+
 ## Projet tutoré 
 
 1. **Vendredi 13 mars:** : Travail en distanciel sur votre **Plan de Gestion de Données (PGD ou DMP)**.  
