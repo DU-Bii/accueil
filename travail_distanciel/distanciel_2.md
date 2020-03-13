@@ -29,6 +29,7 @@ plt.show() # inutile dans un notebook, obligatoire dans un script lancé dans un
 ```
 
 - Lire les chapitres [10 Plus sur les chaînes de caractères](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/) et [11 Plus sur les listes](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/)
+- Faire le [QCM d'entraînement](https://moodlesupd.script.univ-paris-diderot.fr/mod/quiz/view.php?id=225633)
 
 ## Projet tutoré 
 
