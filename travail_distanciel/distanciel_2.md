@@ -3,11 +3,19 @@
 
 ## Unix 
 
-Finir les exercices du tutoriel de **[script bash de la séance 4 ](https://du-bii.github.io/module-1-Environnement-Unix/seance4/tutorial/scripts_ngs.html)**: 
+Finir les exercices du tutoriel de **[script bash de la séance 4 ](https://du-bii.github.io/module-1-Environnement-Unix/seance4/tutorial/scripts_ngs.html)** : 
 
-* écrire et exécuter le dernier script V3 (version avec l'option `--array`) de l'exercice 1 sur le cluster,  vérifier l'exécution et indiquer le numéro du job le temps total d’exécution du script sous **[moodle ](https://moodlesupd.script.univ-paris-diderot.fr)**
+* Écrire et exécuter le dernier script V3 (version avec l'option `--array`) de l'exercice 1 sur le cluster.
 
-* écrire et exécuter le script de l'exercice 2 sur le cluster,  vérifier l'exécution et indiquer le numéro du job et le temps total d’exécution du script sous **[moodle ](https://moodlesupd.script.univ-paris-diderot.fr)**
+* Écrire et exécuter le script de l'exercice 2 sur le cluster.
+
+Pour ces deux scripts, vérifier l'exécution des jobs. Pour chaque job, vous indiquerez sur [Moodle](https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=10629) le numéro du job, le temps total écoulé (`Elapsed`) et le temps CPU cumulé (`CPUTime`). La commande suivante pourra vous être utile :
+```
+sacct -j <job-id> --format="JobID,JobName,AllocCPU,State,Elapsed,CPUTime"
+```
+où `<job-id>` est votre numéro de job.
+
+
 
 ## Python
 
