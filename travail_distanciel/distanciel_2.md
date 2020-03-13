@@ -13,7 +13,7 @@ Pour ces deux scripts, vérifier l'exécution des jobs. Pour chaque job, vous in
 ```
 sacct -j <job-id> --format="JobID,JobName,AllocCPU,State,Elapsed,CPUTime"
 ```
-où `<job-id>` est votre numéro de job.
+où `<job-id>` est le numéro du job.
 
 
 
