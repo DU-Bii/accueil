@@ -15,15 +15,14 @@ L’appropriation par des biologistes des méthodes et outils de biostatistique 
 | 3 | [Analyse statistique avec R](https://du-bii.github.io/module-3-Stat-R/) |
 | 4 | [Production des données à haut débit et sources de données pour la biologie intégrative](https://du-bii.github.io/module-4-Production-Donnees/) |
 | 5 | [Méthodes et outils bioinformatiques pour l'analyse des données à haut débit](https://du-bii.github.io/module-5-Methodes-Outils/) |
-| 6 | [Projet tutoré sur plateforme IFB](https://du-bii.github.io/projets-tutores/) |
+| 6 | [Bioinformatique Intégrative](https://du-bii.github.io/module-6-Integrative-Bioinformatics/2020/) |
+| 7 | [Projet tutoré sur plateforme IFB](https://du-bii.github.io/projets-tutores/) |
 
 <!--
-| 6 | [Bioinformatique intégrative](https://du-bii.github.io/module-6-Integrative-Bioinformatics/) |
 |   | [Study cases](https://du-bii.github.io/study-cases/) |
 |   | [Travaux du vendredi](travaux_du_vendredi/) |
 |   | [Projet tutoré](projet_tutore/) |
 |   | [Travailler sur le cluster IFB core](IFB-core-cluster_access.html) |
-
 -->
 
 ### Travail distanciel
