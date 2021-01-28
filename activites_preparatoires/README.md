@@ -2,45 +2,49 @@
 
 L'objectif de ces activités préparatoires est de vous faire acquérir quelques compétences de base, notamment en Unix, Python et R. 
 
-Ces activités sont à terminer avant le début des cours, soit le **lundi 3 mars 2020, 10h00**. La réalisation de ces activités sont essentielles pour le bon déroulement de la formation. Rassurez-vous néanmoins, nous aurons l'occasion de revoir ensemble toutes les notions abordées dans les activités préparatoires lors des premiers cours. Vous pourrez alors poser toutes vos questions.
-
-Une partie de ces activités sont à réaliser sur le site DataCamp qui permet de manipuler interactivement, dans un navigateur web, les différentes notions abordées. Vous pouvez travailler à votre rythme et dans l'ordre que vous préférez. Vous recevrez par e-mail un lien pour vous inscrire et créer votre compte sur DataCamp.
-
+Ces activités sont à terminer avant le début des cours, soit le **lundi 1 mars 2021, 10h00**. La réalisation de ces activités sont essentielles pour le bon déroulement de la formation. Rassurez-vous néanmoins, nous aurons l'occasion de revoir ensemble toutes les notions abordées dans les activités préparatoires lors des premiers cours. Vous pourrez alors poser toutes vos questions.
 
 ## Unix
 
-Cours [Introduction to Shell](https://www.datacamp.com/courses/introduction-to-shell-for-data-science) sur DataCamp.
+Cours [Unix Introduction - IFB](https://www.katacoda.com/ifb-elixirfr/courses/ifb-unix) sur le site Katacoda.
 
 Chapitres à traiter :
 
-- Manipulating files and directories
-- Manipulating data 
-- Combining tools
+- First steps with command line interface
+- Unix files
+- Manipulating data
 
 Temps estimé : 3 heures.
 
 
 ## Python
 
-Dans un premier temps, nous vous suggérons d'apprendre les bases de Python sur le site de DataCamp.
+Dans un premier temps, visionner la vidéo d'[introduction à la programmation](https://www.youtube.com/watch?v=N9URJ4yVuGA).
 
-Cours [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) sur DataCamp.
+Nous vous demandons ensuite de travailler [notre ressource Python en ligne](https://python.sdv.univ-paris-diderot.fr/), en particulier les chapitres suivants :
 
-Chapitres à traiter :
+[1. Introduction](https://python.sdv.univ-paris-diderot.fr/01_introduction/)
 
-* Python Basics
-* Python Lists
-* Functions and Packages
+[2. Variables](https://python.sdv.univ-paris-diderot.fr/02_variables/) et les exercices :
 
-Temps estimé : 4 heures.
+- 2.11.1 Prédire le résultat : opérations
+- 2.11.2 Prédire le résultat : opérations et conversions de types
 
-Ensuite, nous vous demandons de travailler [notre ressource Python en ligne](https://python.sdv.univ-paris-diderot.fr/), en particulier les deux chapitres suivants :
+[3. Affichage](https://python.sdv.univ-paris-diderot.fr/03_affichage/) et les exercices :
 
-[Boucles et comparaisons](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/) et les exercices
+- 3.6.2 Poly-A
+- 3.6.4 Écriture formatée
 
-* 5.4.2. Boucle et jours de la semaine
-* 5.4.4. Nombres pairs et impairs
-* 5.4.5. Calcul de la moyenne
+[4. Listes](https://python.sdv.univ-paris-diderot.fr/04_listes/) et les exercices :
+
+- 4.10.1 Jours de la semaine
+- 4.10.2 Saisons
+
+[5. Boucles et comparaisons](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/) et les exercices :
+
+- 5.4.1. Boucle de base
+- 5.4.2. Boucle et jours de la semaine
+- 5.4.5. Calcul de la moyenne
 
 [Tests](https://python.sdv.univ-paris-diderot.fr/06_tests/) et les exercices
 
@@ -48,11 +52,15 @@ Ensuite, nous vous demandons de travailler [notre ressource Python en ligne](htt
 * 6.7.2. Séquence complémentaire d'un brin d'ADN
 * 6.7.4. Fréquence des acides aminés
 
-Temps estimé : 1 heure.
+Temps estimé : 5 heures.
 
-Pour la partie sur les boucles et les tests, nous vous conseillons d'utiliser le site [pythontutor](http://pythontutor.com/) qui permet de "pythonner" en ligne sans avoir à installer Python sur votre machine.
+Pour les exercices, nous vous invitons à utiliser le serveur [Basthon](https://console.basthon.fr/) qui vous permettra de coder en Python sans rien installer sur votre machine. L’application est constituée de deux panneaux : un éditeur de texte à gauche et un interpréteur Python à droite. Entrez vos instructions Python dans l’éditeur à gauche, puis cliquez sur le bouton « Exécuter » (en bas à gacuhe) et vous obtiendrez le résultat dans l'interpréteur à droite.
 
-Lors du premier cours, nous vous fournirons un polycopié complet du cours. Inutile donc de l'imprimer de votre côté.
+Pour terminer, merci de prendre quelques minutes supplémentaires pour remplir le questionnaire ci-dessous afin que nous évaluons les connaissances retenues lors du travail préparatoire :
+
+https://forms.gle/gy4TWvSX62kCA4m59 
+
+Remarque : Lors du premier cours, nous vous fournirons un polycopié complet du cours. Inutile donc de l’imprimer de votre côté.
 
 
 ## R
