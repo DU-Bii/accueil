@@ -10,6 +10,9 @@ L’appropriation par des biologistes des méthodes et outils de biostatistique 
 | # | Module   | 
 |---|----------------------------------------------|
 | 0 | [Activités préparatoires et prérequis](activites_preparatoires/) |
+
+<!--
+
 | 1 | [Environnement Unix](https://du-bii.github.io/module-1-Environnement-Unix/) |
 | 2 | [Python](https://du-bii.github.io/module-2-Python/) |
 | 3 | [Analyse statistique avec R](https://du-bii.github.io/module-3-Stat-R/) |
@@ -18,42 +21,39 @@ L’appropriation par des biologistes des méthodes et outils de biostatistique 
 | 6 | [Bioinformatique intégrative](https://du-bii.github.io/module-6-Integrative-Bioinformatics/) |
 | 7 | [Projet tutoré sur plateforme IFB](https://du-bii.github.io/projets-tutores/) |
 
-<!--
-|   | [Study cases](https://du-bii.github.io/study-cases/) |
-|   | [Travaux du vendredi](travaux_du_vendredi/) |
-|   | [Projet tutoré](projet_tutore/) |
-|   | [Travailler sur le cluster IFB core](IFB-core-cluster_access.html) |
 -->
 
+<!--
 ### Travail distanciel
 
-- [Vendredi 06/03](travail_distanciel/distanciel_1.md)
-- [vendredi 13/03 + semaine du 16/03 au 20/03](travail_distanciel/distanciel_2.md)
-
-<!--
-[Vendredi 27/03](travail_distanciel/distanciel_3.md)
-[Vendredi 03/04](travail_distanciel/distanciel_4.md)
+- [Vendredi 05/03](travail_distanciel/distanciel_1.md)
+- [vendredi 12/03 + semaine du 15/03 au 19/03](travail_distanciel/distanciel_2.md)
+- [Vendredi 26/03](travail_distanciel/distanciel_3.md)
+- [Vendredi 02/04](travail_distanciel/distanciel_4.md)
 -->
 
-
-### Liens utiles
+### Liens utiles et ressources
 
 | Contenu | Description |  Localisation |
 |---------|------------------|-------------------------------------------------------|
 | Git pages | Supports de cours, versions, backups | <https://du-bii.github.io/accueil/> |
+| Slack | forum pour échanges immédiats, pas d’archivage | <https://dubii.slack.com> |
+| IFB core cluster | Calculs intensifs (accès ligne de commande) | ssh [login]@core.cluster.france-bioinformatique.fr |
+| Serveur Jupyter Hub IFB | Python et plus encore | <https://jupyterhub.cluster.france-bioinformatique.fr/> |
+| Serveur RStudio IFB | Stat et R | <https://rstudio.cluster.france-bioinformatique.fr/> |
+| Support communautaire IFB | Support par les ingé IFB + entraide et échanges d’expériences entre usagers | <https://support.cluster.france-bioinformatique.fr/> |
+
+<!--
+
 | Planning 2020 | Planning synthétique  | [[pdf](img/planning_DUBii_2020.pdf)] [[png](img/planning_DUBii_2020.png)] |
 |  | Planning détaillé  | [[pdf](img/DUBii_2020_planning-detaille.pdf)] [[png](img/DUBii_2020_planning-detaille.png)] |
-| Slack | forum pour échanges immédiats, pas d’archivage | <https://dubii.slack.com> |
+
 | Moodle | Communications officielles, rapports de travaux personnels, tests, ... | <https://moodlesupd.script.univ-paris-diderot.fr> |
 | Ordinateurs locaux | Premiers TP, visualisation (IGV), analyse de réseaux (CytoScape) | Université de Paris, salles Lamarck A 525 puis B 281, 35 rue Hélène Brion |
-| IFB core cluster | Calculs intensifs (accès ligne de commande) | ssh [login]@core.cluster.france-bioinformatique.fr |
-| Serveur RStudio IFB | Stat pour la bioinfo + tutorat si affinités | <https://rstudio.cluster.france-bioinformatique.fr/> |
-| Support communautaire IFB | Support par les ingé IFB + entraide et échanges d’expériences entre usagers | <https://support.cluster.france-bioinformatique.fr/> |
+
 | Apprenants | Trombinoscope apprenants | <https://tinyurl.com/dubii20-apprenants> |
 | Intervenants | Trombinoscope des intervenants | <https://tinyurl.com/dubi20-intervenants> |
 
-<!--
-| Moodle du DU-Bii (requiert identification) | <https://moodlesupd.script.univ-paris-diderot.fr/enrol/index.php?id=10629> |
 -->
 
 ## Licence
