@@ -50,7 +50,7 @@ Temps estimé : 5 heures.
 
 Pour les exercices, nous vous invitons à utiliser le serveur [Basthon](https://console.basthon.fr/) qui vous permettra de coder en Python sans rien installer sur votre machine. L’application est constituée de deux panneaux : un éditeur de texte à gauche et un interpréteur Python à droite. Entrez vos instructions Python dans l’éditeur à gauche, puis cliquez sur le bouton « Exécuter » (en bas à gauche) et vous obtiendrez le résultat dans l'interpréteur à droite.
 
-Pour terminer, merci de prendre quelques minutes supplémentaires pour remplir [un questionnaire](https://forms.gle/gy4TWvSX62kCA4m59) afin que nous évaluons les connaissances retenues lors du travail préparatoire.
+Pour terminer, merci de prendre quelques minutes supplémentaires pour remplir [ce questionnaire](https://forms.gle/gy4TWvSX62kCA4m59) afin que nous évaluons les connaissances retenues lors du travail préparatoire.
 
 Remarque : Lors du premier cours, nous vous fournirons un polycopié complet du cours. Inutile donc de l’imprimer de votre côté.
 
