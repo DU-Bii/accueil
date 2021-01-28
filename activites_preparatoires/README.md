@@ -2,7 +2,7 @@
 
 L'objectif de ces activités préparatoires est de vous faire acquérir quelques compétences de base, notamment en Unix, Python et R. 
 
-Ces activités sont à terminer avant le début des cours, soit le **lundi 1 mars 2021, 10h00**. La réalisation de ces activités sont essentielles pour le bon déroulement de la formation. Rassurez-vous néanmoins, nous aurons l'occasion de revoir ensemble toutes les notions abordées dans les activités préparatoires lors des premiers cours. Vous pourrez alors poser toutes vos questions.
+Ces activités sont à terminer avant le début des cours, soit le **lundi 1 mars 2021, 10h00**. La réalisation de ces activités est essentielle pour le bon déroulement de la formation. Rassurez-vous néanmoins, nous aurons l'occasion de revoir ensemble toutes les notions abordées dans les activités préparatoires lors des premiers cours. Vous pourrez alors poser toutes vos questions.
 
 ## Unix
 
@@ -46,19 +46,11 @@ Nous vous demandons ensuite de travailler [notre ressource Python en ligne](http
 - 5.4.2. Boucle et jours de la semaine
 - 5.4.5. Calcul de la moyenne
 
-[Tests](https://python.sdv.univ-paris-diderot.fr/06_tests/) et les exercices
-
-* 6.7.1. Jours de la semaine
-* 6.7.2. Séquence complémentaire d'un brin d'ADN
-* 6.7.4. Fréquence des acides aminés
-
 Temps estimé : 5 heures.
 
-Pour les exercices, nous vous invitons à utiliser le serveur [Basthon](https://console.basthon.fr/) qui vous permettra de coder en Python sans rien installer sur votre machine. L’application est constituée de deux panneaux : un éditeur de texte à gauche et un interpréteur Python à droite. Entrez vos instructions Python dans l’éditeur à gauche, puis cliquez sur le bouton « Exécuter » (en bas à gacuhe) et vous obtiendrez le résultat dans l'interpréteur à droite.
+Pour les exercices, nous vous invitons à utiliser le serveur [Basthon](https://console.basthon.fr/) qui vous permettra de coder en Python sans rien installer sur votre machine. L’application est constituée de deux panneaux : un éditeur de texte à gauche et un interpréteur Python à droite. Entrez vos instructions Python dans l’éditeur à gauche, puis cliquez sur le bouton « Exécuter » (en bas à gauche) et vous obtiendrez le résultat dans l'interpréteur à droite.
 
-Pour terminer, merci de prendre quelques minutes supplémentaires pour remplir le questionnaire ci-dessous afin que nous évaluons les connaissances retenues lors du travail préparatoire :
-
-https://forms.gle/gy4TWvSX62kCA4m59 
+Pour terminer, merci de prendre quelques minutes supplémentaires pour remplir [un questionnaire](https://forms.gle/gy4TWvSX62kCA4m59) afin que nous évaluons les connaissances retenues lors du travail préparatoire.
 
 Remarque : Lors du premier cours, nous vous fournirons un polycopié complet du cours. Inutile donc de l’imprimer de votre côté.
 

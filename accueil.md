@@ -36,8 +36,8 @@ L’appropriation par des biologistes des méthodes et outils de biostatistique 
 
 | Contenu | Description |  Localisation |
 |---------|------------------|-------------------------------------------------------|
-| Git pages | Supports de cours, versions, backups | <https://du-bii.github.io/accueil/> |
-| Slack | forum pour échanges immédiats, pas d’archivage | <https://dubii.slack.com> |
+| Git pages | Supports de cours | <https://du-bii.github.io/accueil/> |
+| Slack | forum pour échanges et discussions | <https://dubii.slack.com> |
 | IFB core cluster | Calculs intensifs (accès ligne de commande) | ssh [login]@core.cluster.france-bioinformatique.fr |
 | Serveur Jupyter Hub IFB | Python et plus encore | <https://jupyterhub.cluster.france-bioinformatique.fr/> |
 | Serveur RStudio IFB | Stat et R | <https://rstudio.cluster.france-bioinformatique.fr/> |
