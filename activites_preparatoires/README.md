@@ -2,7 +2,7 @@
 
 L'objectif de ces activités préparatoires est de vous faire acquérir quelques compétences de base, notamment en Unix, Python et R. 
 
-Ces activités sont à terminer avant le début des cours, soit le **lundi 1 mars 2021, 10h00**. La réalisation de ces activités est essentielle pour le bon déroulement de la formation. Rassurez-vous néanmoins, nous aurons l'occasion de revoir ensemble toutes les notions abordées dans les activités préparatoires lors des premiers cours. Vous pourrez alors poser toutes vos questions.
+Ces activités sont à terminer avant le début des cours, soit le **lundi 1 mars 2021, 10h00**. **La réalisation de ces activités est essentielle pour le bon déroulement de la formation.** Rassurez-vous néanmoins, nous aurons l'occasion de revoir ensemble toutes les notions abordées dans les activités préparatoires lors des premiers cours. Vous pourrez alors poser toutes vos questions.
 
 ## Unix
 
