@@ -52,7 +52,7 @@ Pour les exercices, nous vous invitons à utiliser le serveur [Basthon](https://
 
 Pour terminer, merci de prendre quelques minutes supplémentaires pour remplir [ce questionnaire](https://forms.gle/gy4TWvSX62kCA4m59) afin que nous évaluons les connaissances retenues lors du travail préparatoire.
 
-Remarque : Lors du premier cours, nous vous fournirons un polycopié complet du cours. Inutile donc de l’imprimer de votre côté.
+Remarque : lors du premier cours, nous vous fournirons un polycopié complet du cours. Inutile donc de l’imprimer de votre côté.
 
 
 ## R
