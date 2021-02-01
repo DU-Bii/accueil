@@ -18,6 +18,8 @@ L'accès à ce site est gratuit. vous devrez simplement vous créer un compte ou
 
 Temps estimé : 3 heures.
 
+Pour terminer, remplissez [ce questionnaire](https://forms.gle/NBJNgW4ERoqJHC7y8) afin que nous évaluons les connaissances retenues lors du travail préparatoire.
+
 
 ## Python
 
