@@ -10,9 +10,11 @@ Cours [Unix Introduction - IFB](https://www.katacoda.com/ifb-elixirfr/courses/if
 
 Chapitres à traiter :
 
-- First steps with command line interface
-- Unix files
+- Basics of the Unix command line interface
+- Manipulating files and directories
 - Manipulating data
+
+L'accès à ce site est gratuit. vous devrez simplement vous créer un compte ou vous authentifier avec votre compte GitHub, LinkedIn, Twitter ou Google.
 
 Temps estimé : 3 heures.
 
