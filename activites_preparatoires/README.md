@@ -89,8 +89,6 @@ Pour les activités préparatoires sur R, nous vous proposons de suivre le fil d
 - créer et manipuler de manière approndondie les vecteurs qui sont les objets de base en langage R ;
 - créer et manipuler des matrices (de façon basique).
 
-<!--Merci de remplir [ce questionnaire]() afin d'auto-évaluer vos connaissances retenues lors du travail préparatoire.--> 
-
 
 ### statistiques:
 
@@ -107,4 +105,4 @@ Il existe de nombreuses ressources pour se remémorrer ces notions. La série [p
 
  Temps estimé : 1h-1h30 minutes
  
-<!--Pour finir, pouvez-vous s'il vous plaît remplir ce court [questionnaire]() d'auto-évaluation sur les concepts de base en statistiques.--> 
+Pour finir, pouvez-vous s'il vous plaît remplir ce [questionnaire](https://forms.gle/dxz42HwkqVWC1Aun7) afin que nous évaluions les connaissances retenues lors du travail préparatoire?
