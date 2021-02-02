@@ -59,7 +59,9 @@ Pour terminer, merci de prendre quelques minutes supplémentaires pour remplir [
 Remarque : lors du premier cours, nous vous fournirons un polycopié complet du cours. Inutile donc de l’imprimer de votre côté.
 
 
-## R
+## R et statistiques
+
+### R:
 
 Pour les activités préparatoires sur R, nous vous proposons de suivre le fil du [diaporama](prerequis_diaporama_r.pdf). Un [script R](prerequis_script.R) correspondant aux commandes du diaporama vous est fourni.
 
@@ -67,18 +69,18 @@ Pour les activités préparatoires sur R, nous vous proposons de suivre le fil d
 
     Temps estimé : 1 h
 
-2. Ensuite (diapo 23) vous pratiquerez certaines notions de manière interactive avec le paquet d’autoapprentissage **SWIRL** : leçons 1 et 3 à 6 du chapitre « 1. R programming »
+2. Ensuite (diapos 23-24) vous pratiquerez certaines notions de manière interactive avec le paquet d’autoapprentissage **SWIRL** : leçons 1 et 3 à 6 du chapitre « 1. R programming »
 
     Temps estimé : 2h30 (15 à 30 minutes par leçon)
 
-3. Puis vous approfondirez la manipulation des **vecteurs** et des **matrices** (diapos 24 à 44).
+3. Puis vous approfondirez la manipulation des **vecteurs** et des **matrices** (diapos 25 à 45).
 
     Temps estimé : 30 minutes
 
-4. Enfin, [12 exercices](prerequis_exercices_r.pdf) sur les vecteurs vous sont proposés. Les corrections et des explications complémentaires vous seront communiquées le 23/02/2020.
+4. [12 exercices](prerequis_exercices_r.pdf) sur les vecteurs vous sont proposés. Les corrections et des explications complémentaires vous seront communiquées le 15/02/2021.
 
     Temps estimé : 1h30 minutes
-     [Corrections](prerequis_corrections.R) 
+     <!--[Corrections](prerequis_corrections.R)--> 
 
 À l’issu de ces activités, vous devriez être capable de :
 - vous orienter dans votre répertoire de travail ;
@@ -86,3 +88,22 @@ Pour les activités préparatoires sur R, nous vous proposons de suivre le fil d
 - citer quelques exemples de types de variables et d’objets ;
 - créer et manipuler de manière approndondie les vecteurs qui sont les objets de base en langage R ;
 - créer et manipuler des matrices (de façon basique).
+
+<!--Merci de remplir [ce questionnaire]() afin d'auto-évaluer vos connaissances retenues lors du travail préparatoire.--> 
+
+
+### statistiques:
+
+Pour les statistiques, nous vous recommandons de revoir vos cours de base sur les notions suivantes:
+- population et d'échantillonage
+- tests d'hypothèse
+Il existe de nombreuses ressources pour se remémorrer ces notions. La série [points of significance**](https://www.nature.com/collections/qghhqm/pointsofsignificance) publiée par Nature Methods propose de courts articles pour les biologistes débutants en statistiques et nous semble un bon point de départ. Nous vous encourageons à lire les numéros suivants:
+[Importance of being uncertain](https://www.nature.com/articles/nmeth.2613)
+[Significance, P values and t-tests](https://www.nature.com/articles/nmeth.2698)
+[Power and sample size](https://www.nature.com/articles/nmeth.2738)
+[Comparing samples—part I](https://www.nature.com/articles/nmeth.2858)
+<!--Voici également quelques diapositives, reprenant des illustrations de cette série "points of significance" avec les principaux points à avoir en tête avant de démarrer le DU Bii.--> 
+
+ Temps estimé : 1h-1h30 minutes
+ 
+<!--Pour finir, pouvez-vous s'il vous plaît remplir ce court [questionnaire]() d'auto-évaluation sur les concepts de base en statistiques.--> 
