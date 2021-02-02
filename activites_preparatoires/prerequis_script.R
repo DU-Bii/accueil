@@ -7,7 +7,7 @@
 ################################################################################
 
 
-# PREMIERS PAS AVEC R: dias 3 à 23
+# PREMIERS PAS AVEC R: dias 3 à 24
 #----------------------------------
 
 ## Some very simple examples
@@ -77,14 +77,14 @@ savehistory(file = "MyHistory.Rhistory")
 #source ("myscript.R")
 
 
-# ====> DIA 23 : Interactive tutorials with the SWIRL package:
+# ====> DIA 23-24 : Interactive tutorials with the SWIRL package:
 install.packages("swirl") # once you have done it, no need to reinstall it -> nous verrons plus loin dans les cours comment installer des paquets de R
 library(swirl) # pour charger le paquet swirl depuis votre bibiotheque dans votre session -> a faire a chaque session pendant laquelle vous voulez utiliser swirl
 swirl() # pour demarrer swirl
-#bye() or 0 and 0 to quit swirl -> les instructions en cours de leçon sont rappelées dans le diaporama 
+#bye() or 0 and 0 to quit swirl -> les instructions en cours de leçon sont rappelées dans la dia 23
 
 
-# LES TYPES DE VARIABLES ET D'OBJETS: dias 24 à 27
+# LES TYPES DE VARIABLES ET D'OBJETS: dias 25 à 28
 #-------------------------------------------------
 
 # Classes of R objects
@@ -97,7 +97,7 @@ mode(s)
 as.numeric(x < 2)
 
 
-# LES VECTEURS: dias 28 à 34
+# LES VECTEURS: dias 29 à 36
 #---------------------------
 
 # Vectors
@@ -151,7 +151,7 @@ my_vector
 str(my_vector)
 
 
-# LES MATRICES: dias 35 à 44
+# LES MATRICES: dias 37 à 46
 #---------------------------
 
 # Creating a matrix with matrix()

@@ -73,11 +73,11 @@ Pour les activités préparatoires sur R, nous vous proposons de suivre le fil d
 
     Temps estimé : 2h30 (15 à 30 minutes par leçon)
 
-3. Puis vous approfondirez la manipulation des **vecteurs** et des **matrices** (diapos 25 à 45).
+3. Puis vous approfondirez la manipulation des **vecteurs** et des **matrices** (diapos 25 à 47).
 
     Temps estimé : 30 minutes
 
-4. [12 exercices](prerequis_exercices_r.pdf) sur les vecteurs vous sont proposés. Les corrections et des explications complémentaires vous seront communiquées le 15/02/2021.
+4. [10 exercices](prerequis_exercices_r.pdf) sur les vecteurs vous sont proposés. Les corrections et *<u>des explications complémentaires à lire</u>* vous seront communiquées le 15/02/2021.
 
     Temps estimé : 1h30 minutes
      <!--[Corrections](prerequis_corrections.R)--> 
@@ -98,10 +98,10 @@ Pour les statistiques, nous vous recommandons de revoir vos cours de base sur le
 - population et d'échantillonage
 - tests d'hypothèse
 Il existe de nombreuses ressources pour se remémorrer ces notions. La série [points of significance**](https://www.nature.com/collections/qghhqm/pointsofsignificance) publiée par Nature Methods propose de courts articles pour les biologistes débutants en statistiques et nous semble un bon point de départ. Nous vous encourageons à lire les numéros suivants:
-[Importance of being uncertain](https://www.nature.com/articles/nmeth.2613)
-[Significance, P values and t-tests](https://www.nature.com/articles/nmeth.2698)
-[Power and sample size](https://www.nature.com/articles/nmeth.2738)
-[Comparing samples—part I](https://www.nature.com/articles/nmeth.2858)
+- [Importance of being uncertain](https://www.nature.com/articles/nmeth.2613)
+- [Significance, P values and t-tests](https://www.nature.com/articles/nmeth.2698)
+- [Power and sample size](https://www.nature.com/articles/nmeth.2738)
+- [Comparing samples—part I](https://www.nature.com/articles/nmeth.2858)
 <!--Voici également quelques diapositives, reprenant des illustrations de cette série "points of significance" avec les principaux points à avoir en tête avant de démarrer le DU Bii.--> 
 
  Temps estimé : 1h-1h30 minutes
