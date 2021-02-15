@@ -80,7 +80,7 @@ Pour les activités préparatoires sur R, nous vous proposons de suivre le fil d
 4. [10 exercices](prerequis_exercices_r.pdf) sur les vecteurs vous sont proposés. Les corrections et <u>des explications complémentaires à lire</u> vous seront communiquées le 15/02/2021.
 
     Temps estimé : 1h30 minutes
-     <!--[Corrections](prerequis_corrections.R)--> 
+     [Corrections](prerequis_corrections.R)
 
 À l’issu de ces activités, vous devriez être capable de :
 - vous orienter dans votre répertoire de travail ;
