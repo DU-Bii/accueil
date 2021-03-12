@@ -1,4 +1,3 @@
-Attention, cette page concerne le projet 2019. Les projets tutorés 2020 sont dans un nouveau dépôt. 
 
 
 # Projet tutoré 2021
@@ -35,7 +34,7 @@ Il s'agit de vous créer un compte puis de commencer à décrire les jeux de don
 
 Vous utiliserez pour cela les conseils présentés lors du webinaire de Paulette Lieby et Frédéric de Lamotte le 12 mars 20201:
 
-[Présentation](projet_tutore/presa_PGD.pdf)
+[Présentation](projet_tutore/presa_PGD.pdf) - 
 [Introduction DMP Opidor](projet_tutore/Introduction_OPIDoR.pdf)
 
 Cette description servira d’une part à établir le dialogue triangulaire entre vous, votre tuteur de plateforme, et votre encadrant académique. Elle permettra à chacun de prendre connaissance de la nature des données, et de s’appuyer sur cette connaissance pour mettre concevoir le design des analyses bioinformatiques. Les documents que vous préparerez serviront en outre d’amorce pour constituer les “métadonnées” que vous devrez pouvoir produire pour soumettre vos données dans une base de données de référence. 
@@ -85,11 +84,7 @@ Les colonnes suivantes contiendront toute information pertinente (génotype, ph�
 
 - N'hésitez pas à utiliser le forum slack pour échanger des informations, poser des questions, concernant la façon d'organiser votre tableau de description des échantillons. 
 
-### Rendu
 
-Le tableau de description des échantillons sera transféré vers votre espace projet du cluster IFB core, en utilisant l'une des méthodes présentées à la séance 2 du module Unix (scp, rsync, filezilla).
 
-- Adresse du cluster: `<username>@core.cluster.france-bioinformatique.fr`
-- Espace projet individuel: `/shared/projects/du_bii_2019/<username>`
 
 
