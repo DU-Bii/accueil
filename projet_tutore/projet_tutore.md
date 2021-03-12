@@ -12,7 +12,7 @@
 
 Le projet tutoré vise à  mettre en oeuvre les approches apprises durant les semaines de cours afin d'analyser vos propres données. 
 
-Il consiste en un séjour "en immersion"" de 20 jours sur une plateforme de l'[Institut Français de Bioinformatique](http://www.france-bioinformatique.fr/) ([IFB](http://www.france-bioinformatique.fr/)). Le projet doit être réalisé entre le 1er mars et le 31 mai. Le calendrier précissera défini pour chaque apprenant en accord avec la plateforme d'accueil et le tuteur. 
+Il consiste à travailler pendant de 20 jours en lien étroit avec un tuteur d'une plateforme ou équipe associée de l'[Institut Français de Bioinformatique](http://www.france-bioinformatique.fr/) ([IFB](http://www.france-bioinformatique.fr/)). Le projet doit être réalisé entre le 1er mars et le 31 mai. Le calendrier précissera défini pour chaque apprenant en accord avec la plateforme d'accueil et le tuteur. 
 
 Le projet sera également supervisé par un ***encadrant académique***, choisi au sein de l'équipe pédagogique du DUBii. Son rôle est de
 
