@@ -14,7 +14,7 @@ L’appropriation par des biologistes des méthodes et outils de biostatistique 
 | 2 | [Programmation Python](https://du-bii.github.io/module-2-Python/) |
 | 3 | [Analyse statistique avec R](https://du-bii.github.io/module-3-Stat-R/) |
 | 4 & 5 | [Production de données, Méthodes et Outils bioinformatiques pour l'analyse des données à haut débit](https://du-bii.github.io/module-5-Methodes-Outils/) |
-| 6 | [Bioinformatique intégrative]|
+| 6 | [Bioinformatique intégrative](https://du-bii.github.io/module-6-Integrative-Bioinformatics/)|
 | 7 | [Projet tutoré sur plateforme IFB](https://du-bii.github.io/projets-tutores/) |
 
 <!--
